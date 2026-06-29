@@ -13,7 +13,7 @@ The questions cover topics such as:
 - Atmospheric pressure and short-term weather instability
 - Fungal disease risk from humidity and leaf wetness
 - Soil compaction and field trafficability after rain
-- Harvest timing, transport, and natural bean drying
+- Harvest timing, transport, and natural coffee bean drying
 
 ## File
 

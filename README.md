@@ -17,7 +17,7 @@ The questions cover topics such as:
 
 ## File
 
-`db_90_questoes_en.json` — the full dataset, in English.
+`db.json` — the full dataset, in English.
 
 ## Data Structure
 
